@@ -1,0 +1,659 @@
+Muscular
+This person is sturdy and strange, strong and powerful, even without martial art, they can defeat enemies with pure force.
+Robust as a beast
+Catching nine cows by hand, feet on the tail of tiger. This person was born with giant force, fiercer than all kinds of beasts, ordinary people are afraid to provoke them.
+Mountainous Strength
+This person was born with divine strength, majestic and extraordinary, and can even pull up large mountains with his bare hands and carry heavy tripods.
+Weak and Feeble
+This person is weak, can neither lift nor carry, they often physically exhausted.
+Extremely Feeble
+This person is weak and has little energy. If he carries heavy loads or walks long distances and will sweat continuously.
+Feeble as an Ant
+An overrate shakes a tree, not measuring his own strength. Although this person has a human form, but the force is small, as if it is less than a maypole, in the world to live in their own, often walk with difficulty.
+Physically Healthy
+Since childhood, they have been stronger and sturdier than the average, and they are healthy, rarely falling ill.
+Vigorous as a Horse
+The man is physically fit, full of spirit, seen with a high spirit, no decadent attitude.
+Godlike Constitution
+There is no deficiency in the essence of human beings. The essence is abundant, the body is strong, and the spirit is full, so the life expectancy is long.
+Thin as a willow
+Since childhood, he has been thinner and smaller than normal people, and his body is weak, with occasional minor illnesses.
+Extremely Frail
+The body is delicate and weak, not forbidden by the cold wind. This person was born weak and frail, more prone to illness than the average person.
+Fated Early Death
+Born with a sick body, medicine and stones do not work. Constantly ill, and can not be cured, the only way to rely on medicine and stones to continue to live, but still not much time.
+Excellent Senses of Hearing and Sight
+This person has a keen sense of hearing and a sharp eye, and can find things that ordinary people cannot find.
+As Swiftness as Running Water
+Clear-headed and quick to act. Very thorough in insights and good at solving difficult problems.
+Traceless
+The person's behavior is unpredictable and untraceable. This person's behavior and demeanor is unfathomable, and between words and insight into the hearts of the people, when the battle against the enemy, often without bloodshed.
+Awkward Limbs
+Born with clumsy hands and feet, stiff limbs, often damage objects, and more unhelpful when things go wrong.
+Clumsy and Inarticular
+The limbs are thick and clumsy, and they are not good at talking, so they often offend others because of their words.
+Dull as a Doll
+The head is clumsy, the mind is sluggish, and often fails to respond to the words of others, just like a clay doll.
+Miraculous Skeletal Structure
+Born with excellent roots and bones, different from the norm, the demeanor is extremely clear.
+Spiritual Pure Essence
+This person has been blessed with a unique, born in the shape of the end of the body, the gods and bones show, seems to have the bones of immortals.
+Immortal Vitality
+Born in the immortal style, taking people's style, people see it as a god.
+Qi fails to enter the Marrow
+Born with poor roots and bones, unable to echo the true qi running in the body.
+Obstruction of Seven Orifices
+This person's roots are obscure and miscellaneous, his seven orifices are closed, and he cannot sense the spiritual energy between heaven and earth.
+Qi Turbid as a Dog
+Born as a muddy mortal, although it resembles a human form, but no human energy.
+Shrewd
+With a flexible mind and a keen sense of talent, he is often able to speak well and win the applause of the audience.
+Sagacious
+Talented and intelligent, with a deft mind and a very thorough understanding of everything.
+Unrivalled Wisdom
+The wisdom of the world, when the world is unparalleled, with the wisdom of ordinary people.
+Silliy Mind
+Foolish and demented, silly and stupid, because there are obstacles to communication with people, and occasionally make some surprisingly bizarre behavior.
+Idiotic as a chicken
+Often sit in place by themselves and daze, several hours of motionless, dull dead air, as if a wooden chicken.
+Stupid as a Pig
+The mind is stupid, the behavior is clumsy, and its mind is so obscured that it cannot even communicate with people properly.
+Indomitable Will
+This person's character is strong and courageous, sturdy and patient. He often thinks twice before doing anything, and does not make mistakes on impulse because of his impulse.
+Serene Mind
+Thorough-minded, clear-eyed, with insights into people and things, and often solving problems.
+Exquisite Jade of Autumn Frost
+He is as steadfast and unyielding as Kun Yu and Qiu Frost, and his heart is not easily shaken by anything.
+Loose-minded
+This person has a loose mind and is unrestrained. He is often unable to hold on to things, just like an ape and a horse, which are difficult to control.
+Irresolute
+Behavior hesitant, difficult to decide, whenever the choice is often difficult, so miss the opportunity.
+Destined Loneliness
+The person's mind is not strong, the behavior of debauchery, or for sex, or for money away, often without character.
+Talented
+Since childhood, he has been gifted, regardless of the practice of literature and martial arts, and is often able to integrate the three.
+Extraordinary Genius
+The talent is extraordinary and rare in the world. Possessing a talent that is beyond the reach of ordinary people, if you make good use of it, you may become an unparalleled achievement.
+Harmony of Original Qi
+The sky is the same, the earth is the same, the human life to get this, ranked in the three public.
+Impure Root
+Born with poor form, impure heart, regardless of the practice of literature and martial arts, often halfway, can not last.
+Misshapen limbs
+The hands and feet may be deformed, and the limbs have difficulty coordinating, so they often have to work a hundred times harder than normal to learn things, but they are still not as good.
+Collapsing Internal Universe
+The congenital development is incomplete, and the acquired mental disability, and the result is a wretched life with poor literacy and martial arts.
+Understanding
+They are intelligent by nature, good at understanding others, and often make each other feel comfortable by talking to them in a proper manner.
+Considerate from Every Aspect
+Behave smoothly and transparent, treat people well, with a unique charm, can often win the favor of the next person.
+Transcendental
+He is beyond the ordinary, beyond the ordinary. This person has a noble heart and does not flow with the common people. Anyone who befriends him will be convinced by his charm.
+Fickle and Inconstant
+He is often inexplicable to those around him and difficult to get along with.
+Sarcastic and Annoying
+The speech is spiteful and thorny, the behavior is cold and mean, and often clashes with people because of their words and actions.
+Arrogant and Cruel
+His behavior is arrogant, violent and arrogant, people often avoid him and do not want to talk to him.
+Illuminated by Lucky Star
+Since birth, they have been very lucky, even if they encounter disasters, they can be safely resolved, as if they are blessed by the stars.
+Blessed Divination
+If a person has the same fate as a horse, he or she will be rich and prosperous in life.
+Heavenly Bestowed Fortune
+Fortunes and fortunes, like the sky. This person's destiny is rare in a thousand years, no matter what happens to him or her in the future, he or she will be able to achieve good results and even benefit his or her children.
+Jinx
+A life of wealth officials, there will eventually be broken loss, even if you can grasp the good opportunities, but also will lose wealth and fortune.
+Cursed Divination
+If you have the fortune of a horse, you will lose both the horse and the fortune, and you will be poor for life.
+Disastrous Destiny
+This person is a reincarnation of a calamity, the god of evil. This person is born with a demon in his life, and even bequeaths disaster to friends and relatives, people often avoid it like snakes and scorpions.
+Tough Bones and Skin
+Thick skin, hard bones, sticks and fists can not easily cause damage to it.
+Bones and Tendons like Steel
+The man is stiff and strong-willed, not afraid of ordinary blades.
+Unbreakable
+This person has an indestructible body, a strong mind, no matter what kind of divine weapons, are difficult to kill him.
+Lustreless Face
+This person's face is pale, his body is single and weak, when the battle against the enemy, only by the stick fist palm, will be able to hit him hard.
+Refractory Wound
+Born with a lack of Yang energy, the body is weaker than normal people, often due to minor injuries and major problems.
+Tenuous Hold on Life
+Slender and weak quality, jade body is light and soft, its body is weak and weak, it is as easy to damage the glass.
+Harmony of Six Meridians
+This person's pulse is steady, his internal energy is smooth, there is no blockage, and his physical condition is excellent.
+Everlasting Circulation of Qi
+This person was born with blood and qi flow, meridian circulation, so the qi line blood live, sickness dispel strong body.
+Unity of the Individual and Universe
+Heaven and earth are connected, and are born. This person is born alongside heaven and earth, and is able to sense everything through himself, finally merging with nature.
+Blockage of Meridians
+This person has weak and floating meridians, poor breath, frequent stagnation and pain, and poor physical condition.
+Yin Deficiency and Qi Shortage
+This person was born with a deficiency of yin in the five organs and shortage of qi, so he is weak and has difficulty breathing.
+Dead Pulse
+Born with a weak pulse and exhausted vital energy. This person has damage to the meridians and organs, and therefore often causes disease and evil invasion of the body, and there is a risk of life.
+Lustrous Complexion
+The person not only has strong muscles and bones, and the internal breath and smooth, so it is always red and glowing.
+Lively as a Tiger
+This person has a strong body, full of vitality, action will be like a dragon, as long as the tiger, always vigorous.
+Immune to Diseases
+When the righteousness is stored inside, the evil cannot dry up. Born with a strong positive energy, the sea of Qi is full, the six evils are difficult to invade, so all diseases do not arise.
+Sickly
+Since he was a child, his health was weak and he was often prone to illnesses, and every time there was a change of season, he was constantly taking medicine and it was difficult to cure him.
+Seven Injuries of Entrails
+Often the blood is not smooth, the muscles and bones strain, and the five organs are deficient, the human form and spirit will gradually decay.
+Haunted by Hundreds of Diseases
+External six sex, internal injury seven emotions. Born with yin and yang weakening, the sea of Qi is weak and weak, and caused by the evil of the anonymous, so a hundred diseases.
+Self-possessed
+Restrain yourself, respect what you do and act prudently. Always reflect on yourself and think twice before making a decision.
+Calm and Decisive
+The plan is heavy, decisive and dissected. When thinking in detail, all aspects, decision making, follow the law, firm attitude.
+Stable as a Huge Rock
+Any wind and waves, the rock does not turn. It can be said that the top of the mountain does not change its color, the waves do not disturb the heart, and can move forward calmly in the great adversity.
+Impulsive and Emotional
+Often driven by the moment, and forget the consequences of what they do, and occasionally do things they regret.
+Rampageous
+Do things without regard to consequences, all by a reckless spirit, rashly rushing.
+Presumptuous
+We do what we want, we forget what we want, we speak less righteously and reasonably, and we act more unexpectedly.
+Confluence of Triple Sources
+This person's body three yuan of Qi does not need to guide, it can converge in one place, for harnessing.
+Congenital Abundance of Qi
+The body has the innate qi, not increasing or decreasing, empty but not empty, so there is a source of vitality available, seemingly divine and wonderful.
+Shone by Marvellous Light
+Born with special abilities, can be the heaven and earth gas into the body, regardless of the clear and turbid, since the pure energy, you can see the jade essence gas, the surface of the light.
+Disharmony of Fire and Water
+The heart fire does not descend, the kidney water does not support, it is difficult to transport and help each other, so the guide qi is not smooth, occasionally blocked.
+Mutual Restraint of Five Qi
+The body's five gases are more standing, not seeing each other, only punching and grating, not only difficult to regulate the use, more often blocked in the key pivotal point.
+Crumbling Source
+The true essence is scattered, and there is no way to tie up the qi. The person's essence, qi and spirit are all in chaos, scattered but difficult to gather, with nowhere to collect and release.
+Peaceful Mind
+When the mind is free and relaxed, it is at peace with itself and communicates well with nature.
+Unity of Qi and Mind
+The meridians are strong, the breath is harmonious, and the spirit is in harmony with the body and the heart.
+Unobstructive Eight Meridians
+The eight meridians, seemingly by the innate through, the meridian breath can and heaven and earth into one place, there will be thought to something.
+Irritable
+The mind is often restless, easily disturbed by wind and grass, and all actions are often interrupted as a result, and the internal energy is restless.
+Anxiety Causing Qi Stagnation
+Where there are worries, will not forget, often this past, the depression within the accumulation of gas, and sunk in the bottom of the heart, and then difficult to resolve.
+Sanjiao Converse
+In this body, the vital energy passed by Sanjiao is either retrograde or disordered, and no rules or regulations are seen.
+Calm and Silent
+He is calm and quiet, and has few words, and ordinary things seem to be difficult to move his heart.
+Unaffected by Dilemma
+If this person is in turmoil, he does not see panic, and can keep his heart in the midst of the wavering, so he can respond to changes in the situation.
+Carefree and Graceful
+Self-possessed to deal with, to measure the world, can be properly adjusted to the current situation, even if the rapid changes also have the elegant posture of the leisurely court.
+Stressed
+The mind is restless, often worried and frightened about trivial matters, delaying what it thinks and does.
+Indiscreet
+This person acts and speaks easily due to the ups and downs of the mind, and is not good at self-control, often breaking down at critical moments.
+Hyperactive
+This person is restless, hands and feet seem to be out of their control, touching the action everywhere, when chaos more chaotic, lifelong unstable.
+Meticulous
+You are a meticulous person who is able to observe the smallest details when thinking and acting so that you can be prepared.
+Insightful
+Seeing things very thoroughly and clearly is like watching a fire, illuminating all the subtleties without any mistakes.
+Piecing Eyes
+Born with a pair of eyes of gold, observe things more than just the slightest, more through the appearance of the perception of the true nature of the unknown.
+Hesitant
+Not to notice the subtleties, the vain doubts, so when judging hesitantly, it is difficult to make a decision.
+Paranoid
+Suspicious of everything, often like a ghost, often startled when observing, suspicious of everything, but can not catch any details.
+Upside Down Dressed
+In a hurry and disorderly manner, I often lose sight of this, miss a lot, and do not know how to react.
+Faster than the eyes can track
+The eyes are sharp, the hands and feet are fast, and the appropriate response can be made quickly with what is perceived.
+Whisper from Wind
+Both ears are very sharp, can hear the small wind sounds in the air, and identify its location, as if an extra pair of eyes.
+Elusive as Shadow
+This person's movements are secretive, the feet seem to always step in the shadow, the body seems to always hide behind the object, extremely difficult to be discovered by others.
+Slow Reaction Time
+The senses seem to be slower than normal, and the detection and reaction to danger is always a beat slower.
+Confuses Left with Right
+Can not distinguish the direction, often pointing east for west, pointing left for right, and sometimes may hit the dangerous direction on their own.
+Discord of Mind and Body
+The inner mind has been too late to respond, but the body is not moving with the heart, the body and mind are in chaos, there is nowhere to hide, often trapped in a difficult situation.
+Adventurous
+The courage is greater than the body, righteousness whisking clouds, this person's courage and strength are better than ordinary people.
+Dauntless
+It seems to be born without knowing what fear is, and because of its courage, there is no fear in everything, and it has always gone ahead.
+Risking Life Unhesitatingly
+Its brave place, regardless of life and death, not only the usual brave extraordinary, in the face of danger more fearless, but to inspire the brave chest, defiant.
+Weak-willed
+Weak nature, easy to fear, this person's courage and strength are less than ordinary people.
+Discouraged and Depressed
+Disillusioned and demoralized, with a low spirit, most things fail to inspire its courage.
+Cowardly as a Rat
+Cowardly, trembling, often frightened, without an ounce of courage.
+Man of Means
+This person is able to adapt to changes in timing and generate appropriate responses to handle changes appropriately.
+Observing before Acting
+The heart hides thousands of machinations, and the view of the changing times, seeking opportunities, is to turn passivity into initiative, preparation in the early.
+Master of Strategy
+What is in the mind coincides with the many wonderful truths of the world, and can be observed at the root of everything and transformed into its own use.
+Frank but Dull
+The mute and clumsy, often difficult to adapt when encountering changes.
+Incautious and Impetuous
+Carelessness, hasty action, not to check the details of the matter, not to think about the root, and do it haphazardly, often have mistakes and no way to correct them.
+Reckless as a Tiger
+This person often does not plan things, such as no boat will cross the river, no net will catch the tiger, every time they are trapped in a dangerous situation, can not be freed.
+Move as a Running Rabit
+Move quickly, like a rabbit escaping, more agile than normal people.
+Move in a Flash
+This person acts quickly and cleanly, raising his hands and feet only between lightning and fire to complete.
+Swiftness as Immortals
+When walking like the wind, floating dust-free, this person even if longitudinal leap, running line, will not raise a point of dust.
+Indolent
+Lazy and unresponsive, occasionally delaying things because of this.
+Extremely Indolent
+Very procrastinating and slacking, always dawdling until the end of everything, and not in a hurry.
+Completely Indolent
+The body seems to be a thousand pounds heavy, the mind is dull and dreary, and the mind is not able to bring up anything and does not want to make any changes.
+Filled with Murderous Qi
+Born with a vicious and murderous aura, it is intimidating.
+Merciless
+When faced with the suffering of others, there is not a trace of compassion in the heart.
+Fierce as a Rakshasa
+It is like a demon possessed by a rakshasa, with a fearful face and a desire to eat human flesh and blood.
+Tenderhearted
+The heart is soft, the face is weak, if not necessary, reluctant to strike to hurt people.
+Merciful to Enemies
+Excessive kindness, even in the face of the enemy is also merciful, and often lead wolves to raise tigers, and mislead others.
+Sympethetic to Flowers
+We are full of compassion for all things in the world, and do not want to cause any damage, otherwise we will grieve for it in our hearts.
+Might Pulse
+This person's pulse is smooth and solid, energetic, and his internal force is majestic and powerful.
+Profusion of Qihai
+The chanzhong area is full of Qi, and with a little guidance, it can be transformed into a stronger internal energy.
+Pure Genuine Qi
+This person's innate essence is pure and thick, and the acquired Qi is also free of impurities, so the body's true Qi is refined and pure.
+Floating Pulse
+This person's pulse is weak and floating, difficult to stabilize, and his internal force is sporadic.
+Void of Qihao
+It is difficult to gather the true qi in the body, the sea of qi is empty, and the internal force is strong and weak.
+Impure Genuine Qi
+True Qi in the body is very easy to dissipate and mixed, no matter how hard, it is difficult to use the internal energy power of a million.
+Complete Five Elements
+This person's five organs are far healthier than normal people, an exhale and an inhale into a law.
+Supreme Harmony of Qi
+Yin and Yang converge, the spirit of Qi rushes and, this person is gifted, inhaling Qi is naturally transformed into power, exhaling Qi is naturally repairing the internal damage.
+Unity of Nadis
+There are special people, through the air of heaven and earth, itself will be the trick of heaven and earth, this trick is not born and not destroyed, this person also owes nothing.
+Disorder of Spirit
+The mind is uncertain, the spirit is wandering, this person can not internal observation to regulate the body's qi.
+Obstruction of Life Gate
+The Gate of Life is the house of the essence of the gods, the original Qi system, the Gate of Life is not open, then born deficient.
+Iron Embryo
+Stubborn stone and iron fetus, drowsiness, this person's five organs and six internal organs between the meridians do not work, qi and blood stop and go, breathing at times.
+Flying Pace
+This person's action is robust, walking like flying, regardless of the situation, are able to go forward.
+Mighty Stride
+This person is far-sighted and broad-minded, often able to see the first opportunity in action, a step ahead of others.
+Leap as a Dragon
+The posture is vertical and horizontal, and the sound is huge. This person's action is wide open, the body posture as early as the dragon leap, and even wade through the abyss of water.
+Tottering
+This person has limited legs, hobbles, walks with a limp and is often in danger of falling.
+Teetering
+This person tilts the body slant, no matter when, the action are crooked, as if drunk, even in the flat walking often fall.
+Slow as a Snail
+Born lazy, nothing can be done. This person moves slowly and methodically, as slow as a snail crawling, the old cow slow pace.
+Distinctive Constitution
+This person's physique is special, regardless of any malady, injury, can be extremely fast recovery, healing.
+Jade Bone and Clear Heart
+Its body is as flawless as jade, its heart is as clear as ice, as if it has not been tainted with the miscellaneous dust and filthy quality of the world.
+Immune to Toxins
+This person's physique is not the same as ordinary people, the world's ten thousand things are difficult to cause changes in his body.
+Invaded by Evil Qi
+Often, evil spirits invade their bodies and cause damage to them.
+Chaos of Qi and Blood
+The person's breath is lax and blood is stagnant, so he often feels unwell.
+Congenital Diseases
+Born with a hidden disease that is not known to the general public and has a great impact on life.
+Long-limbed
+This person's arms and legs are longer than normal, very flexible when moving, as if an ape.
+Very Long-limbed
+This person has a long and slender body, pavilion as if a crane, the action is elegant and extraordinary.
+Extremely Long-limbed
+Thin waist like a bee, narrow back like an ape. This person was born with a different state, swift action, speed is comparable to the bee ape.
+Top-heavy
+The person's feet are weak, difficult to walk, if you walk for a long time, you will feel dizzy and swollen.
+Odd-looking
+This person's form is odd, not only clumsy actions, behavior is also very comical.
+Deformed
+The limbs are mutated and have a strange appearance. This person was born with a different state, with stiff movements that even affect normal life.
+Faithful
+This person has a strong heart, and his or her heart is always the same when it comes to the people and things he or she loves.
+Extremely Faithful
+His love does not know where it comes from, but once it is deep. Once this person loves a person or a thing, it is the same for life.
+Completely Faithful
+Loyalty and unfailing determination. No matter what, can not shake this person's mind.
+Faithless
+This person acts hesitantly, often wavering in his or her thoughts, and has difficulty in being devoted to people or things.
+Extremely Faithless
+The mind is not strong and often changes. It is difficult for this person to treat anyone or anything for long.
+Completely Faithless
+He is capricious and unpredictable in nature. Anything can shake the mind of this person.
+Eunuch
+Born crippled, inhumane, unable to have children ......
+Infertile
+Born with a stone core, inhumane and infertile ......
+Chaos of Yin and Yang
+Bi-sexual symbiosis, male and female, and difficult fertility ......
+Writing brush
+This character was easily attracted by calligraphy in infancy and grabed a writing brush at Zhuazhou. \nZhuazhou：Under the Chinese tradition, a tray of different items is put in front of the baby upon becoming 1 year old, it was believed to give some indications of the baby’s future
+Doll
+This character was keen on playing with toys in infancy and grabed a doll at Zhuazhou. \nZhuazhou：Under the Chinese tradition, a tray of different items is put in front of the baby upon becoming 1 year old, it was believed to give some indications of the baby’s future
+Plane
+This character often stared at furnitures and houses in infancy and grabed a plane at Zhuazhou. \nZhuazhou：Under the Chinese tradition, a tray of different items is put in front of the baby upon becoming 1 year old, it was believed to give some indications of the baby’s future
+Jade flute
+This character was interested in music in infancy and grabed a jade flute at Zhuazhou. \nZhuazhou：Under the Chinese tradition, a tray of different items is put in front of the baby upon becoming 1 year old, it was believed to give some indications of the baby’s future
+Herb
+This character was keen on playing with flowers in infancy and grabed a herb at Zhuazhou. \nZhuazhou：Under the Chinese tradition, a tray of different items is put in front of the baby upon becoming 1 year old, it was believed to give some indications of the baby’s future
+Whisk
+This character often stared at the sky in infancy and grabed a whisk at Zhuazhou. \nZhuazhou：Under the Chinese tradition, a tray of different items is put in front of the baby upon becoming 1 year old, it was believed to give some indications of the baby’s future
+Dice
+This character often cried for their elders' attention in infancy and grabed a dice at Zhuazhou. \nZhuazhou：Under the Chinese tradition, a tray of different items is put in front of the baby upon becoming 1 year old, it was believed to give some indications of the baby’s future
+Jade Pendant
+This character showed a good taste in infancy and grabed a jade pendant at Zhuazhou. \nZhuazhou：Under the Chinese tradition, a tray of different items is put in front of the baby upon becoming 1 year old, it was believed to give some indications of the baby’s future
+Soil
+This character often rolled on the ground in infancy and grabed a lump of soil at Zhuazhou. \nZhuazhou：Under the Chinese tradition, a tray of different items is put in front of the baby upon becoming 1 year old, it was believed to give some indications of the baby’s future
+Knife
+This character was keen on breaking things in infancy and grabed a knife at Zhuazhou. \nZhuazhou：Under the Chinese tradition, a tray of different items is put in front of the baby upon becoming 1 year old, it was believed to give some indications of the baby’s future
+Beads
+This character often smiled with a thoughtful look in infancy and grabed a string of beads at Zhuazhou. \nZhuazhou：Under the Chinese tradition, a tray of different items is put in front of the baby upon becoming 1 year old, it was believed to give some indications of the baby’s future
+Rouge
+This character was fond of gorgeous items in infancy and grabed a box of rouge at Zhuazhou. \nZhuazhou：Under the Chinese tradition, a tray of different items is put in front of the baby upon becoming 1 year old, it was believed to give some indications of the baby’s future
+Born in the 3rd month
+Born in the waning celestial moon, the clear sun has no glory, and the cold bed and cold blanket do not fear the hardships of the world.
+Born in the 4th month
+Born in the month of Mao when the breeze is warming up, the ice is ripped out of the air, and when you know that everything is good, you still need to wait.
+Born in the eighth month
+Born in the warm and breezy month of Tatsuki, when all flowers bloom and love to be close to all things natural.
+Born in the 6th month
+Born in the month of June of the earth paste pulse fat, rain tea fragrance spring, leisurely get a piece of peace and quiet.
+Born in the month of Noon
+Born in the midday moon when the rain is abundant and the river is bountiful, the grain is pulpy at first and will be full after the summer.
+Born in the unmonth
+Born in the hot days of the month of the year, while the day is early, it is the time to practice and sweat like rain.
+Born in the month of Shen
+Born in the month of Shen, the month of Yang, the month of Yin, the month of water scribbles and flourishes, the mind is calm and the heart is cool.
+Born in the 10th month
+Born in the water old autumn cool You Yue, the return of the geese, the green high sky Na to the clouds of ambition.
+Born in the 11th month
+Born in the cold and windy month of the eleventh month, the leaves of the paulownia are yellow, and the mountain climbing on the water sends the green back.
+Born in the month of Ohio
+Born in the month of Hai, when the grass is falling, the persimmon is as red as fire, so you know that the harvest is full of joy storage.
+Born in the third month
+Born in the month of the son, which is cold and cloudy, the north wind blows cold and animals sleep peacefully until the next year.
+Born in the Ugly Month
+Born in the ugly month of the ninth month of the cold, looking for a home, the group of food and ancestors to celebrate the exchange.
+Pure YinYang
+Impure YinYang
+Pregnancy
+This character is pregnant and defenceless.
+Forced to Serve
+This character was forced to serve the Taiwu.
+Loyal Servant
+This character is a loyal servant bestowed by the Fulong Altar.
+Scripture blessing
+Blessed people are immune to natural disasters……
+Potential Radiance
+Potential Radiance - Increases your Success Rate for breakthroughs in the Artistic and Crafting Talents, +20 points of Patience and Fortitude. 
+Convergence Of Sharp Blade
+Convergence of sharp blade - Increases your Success Rate for breakthroughs for Combat and Inner Art Skills, +20 points of Patience and Fortitude. 
+Narcissus In Dream
+Narcissus in dream - You are extremely attractive.
+PC·Enthralled
+For reading the strange book treasure, greatly shocked ......\n <color=#E3C66DFF> (into the evil often suspicious, good sense is extremely difficult to improve ......) </color> 
+PC·Possessed
+The mind is affected by the strange book treasure code will collapse, occasionally lose their minds to hurt people and things ......\n <color=#E3C66DFF> (into the demon always suspicious, good sense is extremely difficult to improve ......) </color> 
+Bludgeon 300
+Taken 300 hits from staff for breaking the rules of Shaolin, it is forbidden to use qi to protect yourself during the punishment, as a result this person is severely injured, and will not recover for the rest of the life……
+Damaged Meridians
+All Meridians were destroyed as Xuannyu punishment, although they can skill live as a normal person, they won't be able to balance their flow of Qi for the rest of their life, gaining Qi instability……
+Forced Infertility
+The starting point of the middle Meridian —— has been severely injured by vicious techniques and has become dysfunctional, it is a dreadful punishment of the Vajrayana Sect……
+Spinal Cord Poisoned
+A Gu was inserted into the marrow of the spine, it activates whenever the host is poisoned, strengthening the toxins, the Gu cannot be removed for the rest of their life, this is the heaviest punishment from the 5 Immortals Sect……
+Heavenly Reincarnation
+Those who are reincarnated through the heavenly realm will have a carefree life and enjoy the blessings of heavenly beings ......
+Humanic Reincarnation
+People who are reincarnated through the earthly path are born with joy and sorrow, love and hate, or enjoy blessings, or suffer evil consequences, depending on their individual behavior ......
+Demonic Reincarnation
+Those who are reincarnated through a non-celestial path have the blessings of a celestial being, but they also bear the sins of an asura, and if they are not virtuous in this life, they will not have a good end ......
+Infernal Reincarnation
+Those who are reincarnated through the hellish path are punished by the 18 layers of hell, and even if they are reincarnated, they can hardly have any joy ......
+Ghostly Reincarnation
+Those who are reincarnated through the hungry ghost path are burdened by greed and deceit, and have difficulty in escaping from the desires of the world, and are always complaining of suffering ......
+Beastly Reincarnation
+Those who are reincarnated through the path of the next life are the miscellaneous animals of the beings in the world, although they have a human form, but not human wisdom, such as pigs, dogs, cattle and sheep ......
+Peaceful Mind and Soul
+Enthralled by XiangShu
+The mind has been gradually sensed by the pivot, and the brain has been filled with evil thoughts ......\n <color=#E3C66DFF> (The position of those who have entered the evil world will be temporarily transformed into rebellion uncontrollably!) </color> 
+Possessed
+The mind has been completely taken over by the phase pivot, and the last remaining trace of reason will be destroyed ......\n <color=#E3C66DFF> (The demonized person's position in the world will be temporarily changed to the only self!) </color> 
+Avatar of XiangShu
+Avatar of XiangShu, Incarnation of evil phases……
+Goddess Counterattack
+Mo, also known as the bird spirit doctor, is the daughter of the emperor of heaven. \nAt that time, there was a big mountain in the south of the Yangtze River, named Bu's mountain, there were birds in the mountain but they didn't sing, Mo was living alone in this mountain, the birds in the mountain saw her and flew down to her shoulder and cried, Mo knew that these birds often drink a pool of water in the mountain, drink more to lose the ability to sing. So, the woman looked for that pond, found a thin-looking people for a long time in this pond on the edge of the collection of a thousand years to grow an inch of three-colored spirit iron - cicada shells - to forge swords. \nThe man said to Mo: there is a demon under this pond, often eat cicada shells to do training, and in the pond water cast a vicious poison, so that those who harm it can not enter the depths of the pond, I am here to forge a sword, is to get rid of it with this sword. \nMo heard his words, but did not believe, so the man cast the sword into the pool, and then the man away, and used some wonderful herbs to heal the birds in the mountain, so that all the birds in the mountain restored the ability to chirp. \nBut later, as the man who cast the sword said, the pool of water really has a demon, the man who cast the sword left but a month, it will come out of the deep pool, for the disaster of the mountain. \n Mo female remorse, it will ignore the evil of the demon, give up her body into the pond, suffering from the cold and bones, bear the pain of the demon spirit eats the body, finally retrieved the sword she threw away, and wrapped with clothes, called the mountain birds to fly and return to the man who cast the sword, ask him to come here to kill the demon, but soon, Mo female will die from the poison of the pond water. \nLater, the man who cast the sword with this spiritual sword in addition to the demon, because the righteousness of the Mo woman gave up her body to return the sword, they called that spiritual sword for the Mo woman clothes, it is said that the Mo woman clothes aura can solve a hundred thousand poison. \n thereafter, Mo's body lying on the mountain of not see corruption forever.
+Evil-Vanquisher
+In the early ancient times, there was a god in the Western world, named Dayue Yaochang. The "father" of \n Dayue Yao Chang was Qinhuai. Qinhuai is the "son" of Dayu. \nIn the first one hundred years, Dayue Yaochang killed many evil dragons and sculptures in the black water in the south; in the next two hundred years, Dayue Yaochang decimated many monsters and sprites under the red water in the western wilderness; in another one hundred years, Dayue Yaochang destroyed countless frost monsters and snow spirits in the cold and bitter land in the north; in another one hundred years, Dayue Yaochang went to the sea and sky in the east and subdued hundreds and thousands of earth spirits and ghosts; in the last two hundred years, Dayue Yaochang was Sitting at the bottom of Kunlun Mountain waiting for his feathering. \n After his death, he left a body of bones, the world's demons and monsters do not dare to mutilate their remains, these bones by the wind and erosion of the years so cohesion together, it will become a prison voodoo stone.
+Glacial Aura
+At the beginning of the Flood, Emperor Yan and the girl of the Red Water listen to the demon union, born Yanju. Yanju later gave birth to the knot and, and the knot and gave birth to the play instrument, the play instrument gave birth to Zhurong, Zhurong is born Gong Gong. \n Gonggong is the god of water, snake body and human face, hair red fire. He fought with the Yellow Emperor and wanted to fight for the throne, but could not win. \nHe was so angry that he crashed into the mountain of Bu Zhou. \nThe sky tilted to the northwest and the earth collapsed to the southeast. The stars began to move from the southeast to the northwest, and the water of the rivers in the divine realm flowed from the northwest to the southeast. \nAt that time, there was a valley in the southeast, called Houze. There were horned people in Houze. \nThe number of horned people was not much different from ordinary people, and there were tens of thousands of them, but they never went outside the Houze. There is a man named Jiu Han among the horned people, because he was born to drive the strange cold air, but can not control it, as soon as he was born, he froze his parents to death, so the horned people of the Houze place will drive him alone to the west of the Houze on a snowy mountain, do not let him touch people and animals, not to mention that he did not enter the Houze place. \nLater, Jiu Han married a snow woman on the snow mountain, winter, the snow woman short life, they turned into snow water, Jiu Han heart sad, so often take the water condensation as ice. After \n Gong Gong hit Bu Zhou Mountain, the river southeast and flow, after the Ze will encounter a great flood, Jiu Han could not bear to see the horned people suffer, but with one's own strength, the millions of hectares of raging floods condensed into ice and snow, is turned into a high into the clouds of the ice mountain, and he himself was buried deep under the ice mountain. Since then, the people of the corner in order to remember the nine cold, will call that ice mountain for the nine cold mountain, it is said that after the death of the nine cold, the nine cold mountain will often have snow women singing mournful songs, and the nine cold mountain ice and snow is the sun true fire also can not be baked.
+Seven Wenceslas
+The phoenix is divided into male and female, the male is called phoenix, the female is called phoenix. \nWhen the Yellow Emperor was in power, he asked the old man in the sky: What is a phoenix. \nThe phoenix is a divine bird with a head like a goose, a body like a unicorn, a neck like a snake's neck, a tail like a fish's tail, a jaw like a swallow's jaw, a mouth like a chicken's mouth, a colorful pattern on its body, a pattern on its head symbolizing "virtue", a pattern on its belly symbolizing "faith", a pattern on its back symbolizing "ritual", and a pattern on its chest symbolizing "letter". The pattern on the back symbolizes "ritual", the pattern on the chest symbolizes "benevolence", the pattern on the wings symbolizes "righteousness", the feet are tied with "righteousness", and the tail is tied with "righteousness". The pattern on the back symbolizes "ritual", the pattern on the chest symbolizes "benevolence", the pattern on the wings symbolizes "righteousness", the feet are "righteous", and the tail is tied with "wu". If it chirps, the small is like knocking gold shock jade, the large is like a drum to startle the sky, when its head spread wings, colorful, gorgeous. \n Legend has it that the phoenix is immortal, but each of its life cycle is only 4,600 days. The phoenix is born with countless red-eyed golden silkworms, red-eyed golden silkworms every 4,600 days will swallow the silk cocoon around the phoenix, and only after 4,600 days cocoon broken, the phoenix came out, and was reborn.
+Matchless Beauty
+Qingqiu country is in the north of the valley of the rising sun, the valley of the rising sun is the residence of Shui Bo Tian Wu, people living in Qingqiu country are clothed with silk and silk, eat raw grains, because the people of Qingqiu country do not make good use of fire, the fire of Qingqiu country are extinguished. \nThe king of Qingqiu country was named vertical Fang, his father was a Sophora tree, he was the vassal of Tian Wu, vertical Fang had seventeen daughters, they all married in succession to the Water Bo, only the youngest Yi Yi Hou stayed by the side of vertical Fang. \nBecause Yi Yi Hou's appearance is too beautiful, at that time, the Qing Qiu country's doctor Du Zaifu divination for her, the trigram said: its beauty, its beauty, the sky overturned, cut off the four seasons, the three sides of the armor is raised war, the mountains and rivers are red up and down several disasters, this to the defeat of the phase (her beauty, even the sky fell down, even the ground are turned over, want to throw into her arms, the seasons because of her and no longer work, countless countries because of her and the war, mountains and rivers (are dyed red with blood, the sky and earth from now on more trouble, this is a very bad trigram). \nWhen he heard this trigram, he was so frightened that he had to bear the pain and ordered someone to destroy Yi Yihou's face, but who knew that Yi Yihou would recover again after healing. The vertical party could not, so he taught Yi Yihou to wear male clothes since childhood, pretending to be a boy's appearance, thinking that he could avoid trouble. Later, Yi Yi Hou grew to nineteen years old, beauty can no longer hide, vertical convenience will send her to Qingqiu abroad with the foxes of the nine tails as a companion. \nOne of the nine tailed foxes is a young fox with only seven tails, so the other nine tailed foxes are called ugly foxes, which taught Yi Yi Hou to use blood to take the fire of the four elephants. \nYi to Hou and it fell in love, then married it to do its wife. People have since known that Yi Yi Hou turned out to be a daughter's body ah. Her beauty has spread to the surrounding countries, people just hear the name of Yi Yi Hou will be enchanted. Water Bo Tian Wu also came to marry Yi Yi Hou. Fearing the divine power of Tian Wu, he asked Du Zaifu to go and recall Yi Yihou. \nWhen she saw Yi Yihou, who was washing clothes alone by the river, she said to her that her husband had become a god and had gone to heaven. Because Du Zhai father long ago led the ugly fox to the burning gods on the mountain, with a large nail made of peach wood killed the ugly fox. The \n clothes to Hou heartbroken, discouraged, so with the Du Zai father back to the Qingqiu country. \n to the day of the wedding, Tian Wu wedding procession carrying Yi Yi Hou from the burning God Mountain, the burning God Mountain actually instantly burst into flames, the fire is huge, appalling to the extreme, straight to the nine heavens beyond. Yi Yi Hou tears like rain, know is ugly fox in this burning God mountain, they ran into the mountain, accompanied by the vertical party and all Zai father to chase, the result were burnt into ashes, later, the burning God mountain fire gradually see extinguished, but not burned a grass inch wood.
+Dragonborn
+In the ancient times, there was a country of no Qi in the overseas world, and the people of the country of no Qi had no descendants. \nIt has the face of a man and the body of a snake, it is a thousand miles long and its body is red. When it opens its eyes, it is day, and when it closes its eyes, it is night. \nHe was born with six arms and three heads, and grew three thousand feet high in three years. When he saw a dragon, he thought it was a big snake and swallowed it into his belly. \n When Candle Yin saw Hattori Juihe, he knew that Hattori Juihe was going to eat him, so he turned to leave, but Hattori Juihe bit off his tail, and Candle Yin fainted from the pain, so Hattori Juihe grabbed the injured end of Candle Yin's tail happily and dragged it into his arms, but he knew that Candle Yin's body was a thousand miles long and more than a thousand miles, so Hattori Juihe didn't find Candle Yin's head after ten years, so he died of hunger under Mount Zhong. \nLater on, a god named Wei Qi passed by Hattori's body in the Kingdom of Wuqi. Then Wei Qi fed him the food he had on his body, but after he finished eating, he cried again. After hearing that, Hattori Juihe really put Wei Qi into his mouth and swallowed it, and then he fell down and died again. \nSince then seventy years later, lightning split open the stomach of Hattori Juihe, Wei Qi surprisingly not dead, but also in the abdomen of Hattori Juihe found the broken tail of candle yin, I do not think that the broken tail has been turned into iron stone, gathering the god of a hundred dragons, condensed into an invincible soldier.
+Animator of Jade
+"Jianmu" grows in the divine continent within the southeast to the west of the weak water river, its shape is like a cow, but more than a thousand times larger, its leaves are like a net, and its fruit is very similar to the fruit of the wood of music. \n Jianmu is the emperor of heaven to the divine soil "rest soil" planted, is the ladder to heaven, no matter mortal gods and ghosts to enter the heavenly realm, only from this tree and up. \nThere was a god named Xiang, who had little magic power but was good at raising jade. One day, to the east to play, a young boy saw the sky appeared green and blue color, know that to the front door of their home to pass, they put a huge white jade on the road, would like to this rare and precious thing will be to the direction of the stop, to seek the law of jade. \n really, to this will not go forward, he saw the boy said: this jade is good, but unfortunately is dead jade, you can take the blood to raise it, and then go 10,000 miles to that build wood buried deep under ten years, but also to blood to water the seed, I am afraid there is still a chance of life. To the finish and then go away, the boy listened to the heart, really do as they do. Then after eight years of hardship, finally brought the huge white jade to the Jianmu under, and according to that to the said, in that Jianmu under the daily drop of blood into the soil for ten years. \nAfter ten years, the young man will dig out that piece of white jade, did not think that the jade was born in the blood, said it was living jade, the shape also changed, such as a sword, hidden uncertainty, rejuvenated wisdom, divine power extraordinary. \nThis time, to suddenly come from the sky, singing: jade live, jade live, dissolve the rest of the soil condensed as a soul, jade live, jade live, like a child first see people, jade live, jade live, ashamed to look with people often hidden.
+Octobrachial Octopod
+Chi You is brave and fierce, he has eighty-one brothers, each is a copper head and iron forehead, head with a sharp horn, ears with sword-like hair, to sand and stone, gold and iron as food, good at making all kinds of sharp weapons, with immense divine power. \n A great battle broke out between the Yellow Emperor and Chi You. Chi You unleashed his brothers and southern tribes and the mountains, forests, water and swamps among the strange gods, killing to Zhuo Lu, where the Yellow Emperor is located, the Yellow Emperor is to coordinate the four directions of the ghosts and various beasts and some tribes in the Central Plains to meet the battle. The battle was very fierce, and Chi You was very fickle, conscripting the wind and calling for rain, spewing smoke and fog, surrounding the Yellow Emperor's army in the fog. It was not until the Yellow Emperor's vassal, Queen Feng, made a guide car that the Yellow Emperor's army broke out of the fog. Huang Di invited Ying Long to drown the enemy with heavy rain. Chi You also invited the wind and rain master to make a more violent storm, causing the Yellow Emperor's army to scatter and flee. The Yellow Emperor called his daughter Drought to join the battle, the rain disappeared in a flash, and Ying Long waited for an opportunity to kill Chi You, so that Chi You was thwarted. The Yellow Emperor made a drum from the skin of the divine beast Kui and used the bones of the god of thunder as drumsticks. The sound of drums, 500 miles away can be heard, Chi You army lost their souls. The Yellow Emperor also laid out an unpredictable formation, surrounded the Chi You army, Chi You was finally defeated and captured. \n Chi You was killed in Zhuo Lu, his hands and feet on the shackles thrown into a bright red color of the maple forest, that is Chi You spotted blood.
+Celestial Edict
+Huang Gu Bo is the queen of Ying Long. \n early ancient three emperors period, Ying Long for the yellow emperor's ministers. Chi you and the yellow emperor war, the yellow emperor will order the dragon in the Jizhou wild water storage to attack Chi you. Chi You will ask the wind and rain division to raise the wind and rain so that the dragon can no longer store water. Then the Yellow Emperor sent a celestial female named Drought down to the world to help, once the celestial female Drought arrived, her dry air washed away the rain, and the dragon killed Chi You. \nAccording to legend, after killing Chi You, Ying Long killed Kua Fu, so he could not go back to the heavenly palace, and went to live in the south, so the south is more rain, so Huang Gu Bo also can not return to the sky. \n This Huang Gu Bo was born to love rain, especially like the rainbow. At that time, there was a Taoist priest in the south, named Jifang, also good at picking the rainbow method, the magic of the incomparable magic. Huang Gu Bo then disguised as a beautiful woman to steal the magic of the Fang, but unexpectedly recognized by the Fang at a glance. Seeing that he was sincere, he did not blame him, but taught him the truth, saying: "The rainbow is the haze of light and mist. Xia is led by the sun and the moon, the sun rainbow xia dazzling, for dazzling gold xia; moon rainbow xia Ying, is full of jade xia, these two are only mortal rainbow, but the sun and the moon with the lead of the xia Fang is the rainbow of the sky, is the ghosts and gods of the xia. \n Huang Gu Bo listened, the heart can not stop, but the law of the sun and the moon has been set by the sky, how the sun and the moon can be hidden with the same appearance, and how to lead the light to the rainbow? Huang Gu Bo thought of a method, after resigning from the art side, even stole the Palace of Heaven, is a great danger, first with the sun mother Xie He borrowed the sun, and the moon mother Chang Xi borrowed the moon, but unfortunately both failed, but was found by the emperor of heaven, to impose heavy punishment beheaded the dragon head. \nWho knows that although the king Gu Bo lost his head, but the heart is not dead, after returning to the lower world, they lie on the east coast, the heart of grief. \nJutsu Fang see Huang Gu Bo so persistent, heart, but also because he knew that he had revealed the heavenly opportunity, harming him is not light, so they took a sword-shaped bronze ancient card order, cast a supreme divine power, even led to the sun and the moon together, the East Sea also tide rose ten thousand feet, the fog screen, the fog screen, but also instantly born nine colors of the rainbow, the rainbow light is wonderful, mesmerizing. \nThis haze nine colors variable, changeable, through the power of ghosts, dyeing the sun and moon of the gods, scratching the sky and earth, incomparable. Huang Gu Bo heart for the eyes, surprise watching, when the rainbow light extinguished, finally heart death and sleep, turned into a beach reef. Later people called it Wangxia. It is said that the sea haze together, the stone will be born eyes to the haze look forward to. \n And that the art side also because of the method of casting the heaven, by the heavenly punishment, was turned into the bronze ancient card order.
+Presence of XiangShu
+All beings and all faces, cores and connections……
+Ubiquitous chemistry
+Beyond the East China Sea, on top of the Chai Mountain, there was the Wu Tablet, which is used to record the ancient mythology of things. The \n Wu stele does not know what to chisel and become, hard and tenacious, water and fire do not invade, everything can not be born on it, the years can not leave a trace, even the dust will not stain, is the world's most clumsy out of the world things.
+Heavenly Hub Xuan Body
+With the foundation of "Tianshu Xuanji" method, supplemented by numerous methods, a large amount of true qi was injected into the wutong wood to form a wooden body.
+Language Porcupine
+Di Zhaoyu Fuhua, is the god of flowers, was raised by the Emperor in the Xuan Pu, then pecked by the vermilion bird, left in the East China Sea ......
+Purple bamboo chemistry
+Purple bamboo is the most sentient and spiritual thing in the world, just waiting for the chance to coincide, it will be transformed into a human ......
+Elixir of the heaven
+Taking the elixir left behind by the immortals....
+Poison of the Spider Queen
+Bitten by the poisonous spider queen of the Five Immortals Sect……
+Septenary Recuperation of the Big Dipper
+Has gained a glimpse into the mysteries of the Big Dipper....
+Praise of Lion Face
+Your names has been spread by Lion Face……
+Eyes and Ears in pain
+The head and neck are considered destroyed when the internal wounds to the head and neck reach 4 levels, and will not disappear until the victim has healed all internal wounds to the head.
+Eyes, Ears Injured
+If the eye and ear are severely injured, the victim's hitbox and resolution on the second weapon attack are greatly reduced, and the victim's head and neck are considered destroyed when the trauma to the head and neck reaches 4 levels, and the trauma does not disappear until the victim has healed all the trauma to the head.
+Chest pain
+A serious injury to the chest and back, where the traumatized person's qi cannot exceed 60% and the traumatized person's internal injuries to the chest and back reach 4 levels is considered to be a disfigured chest and back, and this serious injury will not disappear until the traumatized person has healed all the internal injuries to the chest and back.
+Chest injured
+A severe injury to the chest and back, where the traumatized person is unable to lift more than 60% of his or her Qi, and where the trauma to the traumatized person's chest and back reaches 4 levels is considered to be a disfigured chest and back, and this severe injury will not disappear until the traumatized person has healed all the trauma to the chest and back.
+Waist pain
+A serious injury to the waist and abdomen, where the traumatized person's frame cannot exceed 60% and the internal injuries of the traumatized person's waist and abdomen reach 4 levels is considered as waist and abdomen mutilation, and this serious injury will not disappear until the traumatized person has healed all the internal injuries of the waist and abdomen.
+Waist injured
+A serious injury to the waist and abdomen, where the traumatized person's frame cannot exceed 60% and the trauma to the traumatized person's waist and abdomen reaches 4 levels is considered as waist and abdomen mutilation, and this serious injury will not disappear until the traumatized person has healed all the trauma to the waist and abdomen.
+Shoulder pain
+The arm is considered to be crippled when the shoulder and arm are severely injured, the recipient cannot have more than 6 stances, and the internal injuries of the recipient's arm reach 4 levels; this severe injury will not disappear until the recipient has healed all the internal injuries of the arm.
+Shoulder injured
+A serious injury to the shoulder and arm, where the traumatized person cannot have more than 6 stances, and where the trauma to the traumatized person's arm reaches 4 levels is considered a mutilation of the arm until the traumatized person has healed all the trauma to the arm.
+Heel pain
+If the knee heel is severely injured, the maximum Footwork value of the injured person is halved and the internal injuries of the injured person's leg and foot reach 4 levels, the leg and foot are considered to be crippled until the injured person has healed all the internal injuries of the leg and foot, then the severe injury will disappear.
+Heel injured
+If the knee heel is severely injured, the maximum Footwork value of the injured person is halved and the trauma to the injured person's leg and foot reaches 4 levels, the leg and foot is considered to be mutilated until the injured person has healed all trauma to the leg and foot.
+White Forehead Snake
+White forehead snake - You played with a White Forehead snake every day, and are now immune to poison
+God helps good karma
+Nine lifetimes of reincarnation lead to great results, easy to make good karma, and full of children and grandchildren.
+Fu Shen Gui Xiang
+Nine lifetimes of reincarnation have led to great achievements, deep roots of blessing and extraordinary wealth.
+Toucan without bundle
+Nine lifetimes of reincarnation, and a great fruit, extraordinary cultivation, good beginning and good end.
+No disease in the heart
+Nine lifetimes of reincarnation, and the great fruit, a kind heart without worry, a healthy body.
+Good life and longevity
+Nine lifetimes of reincarnation, but become a great fruit, thick virtue to protect life, life than the South Mountain.
+Rutabaga Giving Cry
+Blessed by the crowing of the reed fowl. The \n reed chicken is named after its black and white feathers, which resemble reeds. It likes to walk along the river, hide among the reeds, and peck at grass seeds, tree fruits, flies, ants and small insects.
+Sage Grouse Giving Crow
+Blessed by the crowing of pheasants. The \n sage grouse originated from the late Tang Dynasty and is said to have been bred from the mating of domestic chickens and pheasants, named for the tiny black spots on its back. It often feeds in the wild or in the fields, and although small in size, it is robust and flexible.
+Pheasant Giving Cries
+Blessed by the pheasant crowing. \nThe pheasant has a small head and a long tail, and is good at hiding, and if it sees a stranger, it often runs into the thicket. Because "it cannot be tempted to food and deterred by the power", the scholars thought that it had the righteousness and often gave pheasants as gifts when they visited each other.
+Bamboo Rooster Gives Crow
+Blessed by the crowing of bamboo chickens. \nThe bamboo fowl is also known as the "mud-slide" and its cry is just like the "mud-slide", often calling dozens of times before its strength is exhausted. It has colorful feathers, but loves to walk in the grass and bamboo forest, easy to be found, often playing and fighting with each other, and is not afraid of people.
+Black Feather Cries
+Blessed by the crowing of black-feathered chickens. \n Black-feathered chickens have bright red crowns, shiny green and black feathers, and a beautiful, upright posture, and can only be raised in the wild to feed on insects and herbs.
+quail tail gives cry
+Blessed by the cry of the quail tail. \nIt is said that the quail-tailed chicken was born in the south of the Vermilion Bird, one of the four signs of the sky, and the tail of the seven constellations is called the quail's tail. Therefore, its head is like a chicken, short tail like a quail, strange and lovely, when the Han Dynasty, someone to its shape painted on the bronze mirror to resemble the vermilion bird.
+Horse and Chicken Giving Cries
+Blessed by the crowing of horseroosters. The \n horse chicken has a peculiar appearance, with a red head and blue body, upturned tail feathers, a healthy posture and good at running. It only grows on top of high mountains, with a loud call, and is not afraid of people, and can dig the soil by itself for food and nest in the dry grass.
+Barefoot Giving Cry
+Blessed by the crowing of the barefoot chicken. \nThis chicken looks like a mountain chicken, with a black body and bare feet, and can cure the disease of swelling or dry and wrinkled skin, which is named "䳋 Drain" in the "Shanhaijing". Because of its rarity, it is not visible to ordinary people.
+Window birds give cries
+Blessed by the crowing of a bird in the window. \n According to legend, during the Jin Dynasty, Song Dizong of the State of Pei bought a chicken and kept it in a cage between the windows, which could speak human language and talk with Dizong. Later on, there were occasional chickens that could talk and were wise, so people named them "window birds".
+Yuan Bao Gives Cries
+Blessed by the crowing of the Yuanbao chicken. \n folk proverb "yuanbao chicken, two heads, ears singing, do not feel alarmed", yuanbao chicken small size, short legs and body fat, shaped like a yuanbao, very cute, so even in the human ear beating, will not be annoying.
+Dan Chicken Gives Crow
+Blessed by the cries of the Dan Chicken. \n "Dan chicken does not need to be allied, I am not a child intestines", Dan chicken sound like tide, feather red like fire, ancient times people often use it to swear or sacrifice. Its fur is bright like wearing a colorful body, the double distance is hard and sharp, and its demeanor is powerful, symbolizing that it will never change.
+The State of Guo Gives Cries
+Blessed by the crowing of the chicken of Guo. \nDuring the Zhou Dynasty, there was a chicken official dedicated to the ritual of sacrifice, and it is said that a chicken official once said that only the chicken of the State of Guo should be used for sacrifice. The State of Guo chicken has a red and black body and a slender and handsome posture. The State of Guo area has been raising this chicken for generations and has never been discontinued.
+Good luck with your cry!
+Blessed by the cries of Zhu Zhu. \nThis man has been raising chickens for more than a hundred years, and he has more than a thousand chickens. When he wants to attract chickens, he calls them by name, and they all come according to the call. This chicken body feathers yellow and white, head and stand, and has a spiritual nature, often perched on the tree, if the owner called "Zhu Zhu", then with the call to come.
+Long Tail Giving Cry
+Blessed by the crowing of the long-tailed chicken. \n The Book of the Later Han Dynasty: "There is a long-tailed chicken, tail length of five feet", the long-tailed chicken used to be a precious tribute, noblemen put a high platform to stand it, its tail feathers hanging to the ground, floating expensive beauty. Because of its preciousness, some people carved its shape in the burial chamber and used it as an accompaniment.
+Silver Jin Chi Crying
+Blessed by the crowing of the silver brocade chicken. \nIt is a silver pheasant with a narrow crown, white feathers on its neck, tail and belly, and a colorful body, hence its name. Literati often inscribed paintings and chants for it because of its beauty.
+Jin Jin Chi Cries
+Blessed by the crowing of the golden jinga. The \n golden brocade chicken has a pure golden yellow head and is covered with all the five colors, and it is named "golden brocade". According to legend, it resembles a phoenix and is so auspicious that its image is often used as a decoration pattern for the emperor.
+Langya Giving Cry
+Blessed by the cries of Langya chicken. \n Qin time, the first emperor in search of immortality, three tours Langya Terrace, Xu Fu offer sea fairy, with the local chicken stew. The first emperor found that the chicken is not less delicious than the immortal things, thought it must have life extension, and gave the name "Langya chicken".
+Bijou Gives Cries
+Blessed by the crowing of the pheasant. \n "The golden horse gallops light and the absolute scene, the pheasant swiftly and Yao Yi", it is said that the pheasant is a divine object, where it is located, there is a spiritual light spectacle from time to time, see then get details. People often go around looking for the god of the pheasant, to its altar sacrifice, in order to protect.
+Merlin Cries
+Blessed by the crowing of the Plum Forest Chicken. \nWhen the plums fall to the ground and the insects eat the plums, people often see a chicken pecking at the plums and insects in the plum forest, so they name this chicken the plum forest chicken. Although this chicken has an unusual appearance and is earthy yellow in color, perhaps because of the plum forest, its meat is tender and has a sweet taste, which is quite unique.
+Sun Zhi Zhi Crying
+Blessed by the crowing of Sun Zhi Chicken. \n "Drinking water on the chrysanthemum pond, the chicken nest is still worshipping Sun Zhi", the Sun Zhi chicken was born in Jiangnan, white in color, with small body and short feet, very cute. It loves to nest under the bamboo forest of Sun Zhi and drink the water between the flowers and trees, and has the fresh air of flowers and leaves.
+Huiji Gives Cries
+Blessed by the crowing of Huijigong. \nShi has a chicken named Huiji Gong, although the body is large and strong, but both male and female are not good at crowing, so some people in the old days taunted others with this chicken, saying "Huiji chicken, can not crow"; and that person, with the courage of Huiji Gong, said back "can not crow, kill Wu'er".
+Five Black Giving Cries
+Blessed by the five black chickens crowing. \nThe chicken is named Wuhei because its hair, skin, meat, bones and internal organs are all ink-colored. Five black chickens are mostly free-ranging in the mountains and forests, feeding on weeds and mountain insects.
+Peachland Gives Cries
+Blessed by the crowing of the peach source chicken. \nIn the middle of Taiyuan of Jin Dynasty, a man from Wuling was fishing for a living, and when he was walking along the stream, he mistakenly entered Peach Blossom Source. The man saw a chicken in it, with a large shape and pleasant feathers, different from ordinary chickens, and thought it was strange, so he asked the local people for chicken seeds to return home.
+Beard Giving Cry
+Blessed by the crowing of the bearded chicken. \nThe bearded chicken has a large head and thick neck, a full hindquarters, and short tail feathers, and its under-jaw feathers are open, resembling a beard, hence the name.
+Deer Park Gives Cries
+Blessed by the crowing of the Deer Park Chicken. The \n deer park chicken grows in the old deer breeding place of the King of Wu, its stature is tall and upright, covered with gold feathers, and looks like a "chicken general".
+Emei Giving Cry
+Blessed by the crowing of the Emei black chicken. \nEmei black chicken has a rounded body with tight black feathers, and is named because it grows in Emei. Its thick comb feathers can protect it from the cold; its wings are strong and can leap; its posture is fast and it is used to avoid enemies.
+Candle Night Giving Cry
+Blessed by the cries of the candle night. \n "Candle night cries, Tai Bai Hui Mangs, fire essence light Sheng." According to legend, the candle eats on the ground at night, walks in the sky, and roosts in the trees at night, which is a sacred object in ancient times. The sound of its cry can make the world long bright, the sun does not set.
+Huixiang Gives Cries
+Blessed by the crowing of Huaixiang chickens. \n Huaixiang chickens are easy to raise, whether they are confined between chicken pens and houses, feeding on rice and sweet potatoes, or placed in the mountains, rivers and streams, feeding on small insects and fallen leaves, they can grow.
+Five Grey Giving Cries
+Blessed by the crowing of the five gray chickens. \nThe five gray chickens are named after their "gray skin, gray hair, gray feet, gray beak and gray crown". This chicken is mostly kept by farmers in front of their houses and behind their orchards and woods, feeding on grass, ants, gravel and fallen fruits.
+Camellia Giving Cry
+Blessed by the cries of the teal chickens. \nThey often fly low in the forest and feed on flowers, leaves and berries. Because of the sound of "tea blossom" when it cries, it is called "tea flower chicken".
+Gushi Gives Cries
+Blessed by the crowing of the Goodyear chicken. \nGushi chicken is meticulous, full of feathers, its tail feathers are mostly black, the form of curling, like the Buddha's hand, where it runs, then the tail feathers waving in the wind, the view is very beautiful.
+Crow's Bone Giving Cry
+Blessed by the crowing of the crow-bone chicken. The \n black-boned chicken has a small body, black skin and flesh and silver feathers, the chicken head has fine hair high and fluffy, is the so-called ten full birds: mulberry crown, tassel head, green ears, beard, five claws, hairy legs, silk hair, Wu skin, Wu bone, Wu meat.
+Yovachai Cry
+Blessed by the cries of the Yowa chicken. The \n Yowah chicken is native to Yunnan, and because its white feathers are silky, resembling the wool of pine needles, the local Yi tribe named it "Yowah", which means "wool". It likes to eat grazing and is not good at leaping, so it often nests in the grass and between shrubs.
+Jingning Giving Cry
+Blessed by the crowing of the chicken in Jingning. \nDuring the Western Han Dynasty, when Jingning was a military fortress, soldiers and horses were placed there. The chicken breed was then introduced to Jingning, and it was released in the barren mountains and rivers, foraging and running with the military horses, and over the years, the Jingning chicken grew larger and more solid.
+Black Phoenix Cries
+Blessed by the crowing of the black phoenix chicken. \n black phoenix around the black feathers, chicken head fluffy, such as the top of the phoenix crown, so named "black phoenix chicken". According to legend, the black phoenix chicken is not a human chicken bird, its eyes, chicken blood, as well as the internal organs, with black, very strange.
+Long Cries of Giving
+The long-crowing captain cries for blessing. \nThe chicken's long crowing is incessant for one meal, and the long distance is good at fighting." The long-crowing chicken was as tall as a young son, with a clear and long cry that could last all year round.
+slightly Yang gives cry
+Blessed by the crowing of the Loyang chicken. \n Loyang chicken is tall and strong, with a wide and deep chest, thick and long legs, very good at foraging in the wild, local farmers will release it in the mountains and forests during the day, until the night, then call it back to the cage.
+Annan Cries
+Blessed by the crowing of the Annam chicken. The \n Annam chicken is small in form and has a variety of colors, and was first bred by the people of Annam, so it was called by the name of Annam. Its character is timid and does not like to move. If someone walks past it, it shrinks its head and binds itself, as if it were a still life.
+Flower Tail Giving Cry
+Blessed with the cry of the flower tail. \nIf frightened, it hides among the pine branches and does not move until people are far away, then the wings are raised and fly.
+Wenchang Cries
+Blessed by the crowing of the Wenchang Chicken. \n Legend has it that the Wenchang chickens feed on the tree fruits that fall from the banyan tree, and over time, they actually become smaller and shinier in size and feathers, only to prefer to live in a quiet and sheltered place ever since.
+Snowcock Giving Crow
+Blessed by the crowing of snow chickens. \n Snowcock is shaped like a quail, light gray body color, snow-white belly feathers, very rare, can live on top of the iceberg, feeding on snow and water.
+White Head Gives Cries
+Blessed by the white head black chicken crowing. \n "Black chicken white head, eaten by the sick". According to legend, the white head black chicken was born in the south of the miasma heat, because often eat mud, vermin and toxic, this chicken if people eat, will be sick, and difficult to cure.
+Six Fingers Giving Cry
+Blessed by the six-fingered chicken crowing. \n six-fingered chicken appearance is peculiar, its head snow white, its claws four distance and six fingers, the body has a strange poison, sex likes to live alone, eating it can harm people.
+Five Colors Giving Cry
+Blessed by the crowing of the five-colored chicken. \nThe five-colored chicken has a green, yellow, red, white, black five-colored light, only before death before the crowing, eating it makes people more worried.
+Colorful Giving Cry
+Blessed by the cries of the seven-colored pheasant. \n seven-colored pheasant body clothed in seven colors, where there is light shining, it often bathed in light and wings, such as the phoenix sunrise, so people say it: see it as see auspicious. However, it is difficult for mortals to reach the place where it lives, so there are few people who can see its true appearance.
+Fengchuan Crying
+The Fengchuan chicken cries for blessing. \nFengchuan chickens are often kept in bamboo forests by streams and under pine trees in the mountains, feeding on weeds, insects and ants, with their short bodies and thin bones.
+Hai Ling Gives Cries
+Blessed by the crowing of the Hailing Chicken. \n Hailin chicken likes to live in the coastal mudflats, beautiful body, people love, there are black, white, yellow three, with the white is the most rare.
+Shanggu Giving Cry
+Blessed by the crowing of the Upper Valley Chicken. The \n Shanggu chicken is native to the grasslands of northern China, with long tail feathers, lively and active, easy to raise, and likes to walk in the grass and fields all day long.
+Ningdu Giving Cry
+Blessed by the crowing of Ningdu chicken. \n Ningdu chicken yellow feathers, yellow beak, yellow feet, love to live in groups, not easy to disease, shaped like a yuanbao, tame relatives.
+Qingzhou Giving Cry
+Blessed by the crowing of the Qingzhou chicken. \n Qingzhou chicken with black feathers and white skin, clad in the light of gold and iron, with large and lively eyes, is said to have been raised by the people of Qi since the time of the Zhou Dynasty.
+Qian Xiang Gives Crying
+Blessed by the crowing of the Qian Xiang chicken. \nThe Qianxiang chicken has golden plumage and carries a strange fragrance. It mostly grows in high mountains and forests, and is small and flexible, so it is difficult to be found by ordinary people.
+Inviting wealth and giving cries
+Blessed by the crowing of the fortune chicken. \nChoice chicken shin feet short, tail feathers up, bright hair, gentle nature, the people love; if you see something valuable, it will dance high, it is said to have the effect of attracting money, so the name.
+The King of Vietnam Gives Cries
+Blessed by the crowing of the King of Yue's chicken. \n Legend has it that during the Spring and Autumn Period, the King of Yue once collected good chickens in the country for enjoyment, and after a long time, he got the King of Yue chicken. The chicken's plumage looked like jade from afar, and was so good at playing with people that when the owner died, he often cried.
+Golden Feather Cries
+Blessed by the golden feather and silver ear crowing. \nGolden-feathered silver-eared chicken body color like gold, silver leaves next to the ear like white peach petals, beautiful and unusual; its voice intonation, such as through the rhythm, such as understanding the seven emotions; its nature is like people, regardless of nobility, all can be friends.
+Jianning Gives Cries
+Blessed by the crowing of Jianning chicken. \nThe Jianning chicken has bright feathers, is robust, agile and likes to run, and can live freely both in the mountains and the plains.
+Cloud Pine Gives Cries
+Blessed by the crowing of the cloud grouse. \nThe cloud grouse likes to eat pine needles, young fruits, insects and ants, although not good at flying but has sharp claws, strong legs, long in digging, its wings like a knife, its voice is loud.
+Turkic Giving Cry
+Blessed by the cries of Turkic finches. \n Turkic finches are as small as pigeon doves, flying extremely fast, often in the middle of the desert with the Hu people live by water, the new Book of Tang cloud: "Turkic finches, south of the flying Hu will come".
+Jiuzhen Gives Cry
+Blessed by the crowing of Jiu Zhen chicken. \n Jiu Zhen chicken is said to be imported from Jiu Zhen County, a large amount of food, every high tide will sound, its sound is clear, like blowing horns, its distance is still long, brave and good at fighting.
+Chang'an Gives Cries
+Blessed by the crowing of the Chang'an chicken. \n Chang'an chicken "gold hair, iron distance, high crown and tail", sturdy, strong and good fighter, it is said that the Tang Emperor Xuanzong had ordered the six soldiers to keep this chicken, in order to effect its bravery.
+Kunlun Gives Cries
+Blessed by the crowing of the Kunlun chicken. \n Kunlun chicken originally grew in the snowy ice fields, after the Tang Dynasty is introduced by the Tufan, this chicken black feathers and green feet, not afraid of the cold, long-winged and militant, can fight to fly.
+Golden Foot Giving Cry
+Blessed by the golden-footed chicken crowing. \n Golden-footed chicken body are white, only the feet are red gold, toe claws sharp, like solid iron, its wings are powerful, can fly dozens of miles without falling, it is said to be the descendants of the Golden Crow, is not with the regular birds for the flock.
+Crossbill Giving Crow
+Blessed by the crowing of crossbills. \n crossbill is shaped like a wild pheasant, yellow and black body color, brown head, hairy horns, shaped like a crown; its nature is fierce and aggressive, if its kind is offended, it will not stop dying, the ancient people feel, so there are often songs and chants passed down.
+mythical rooster gives crowing
+Blessed by the crowing of mythical rooster. The \n bird is three feet high, the world's most incomparable; long jaws and red beak, fierce strength; its color is yellow and white, every fight will win, the morning drink sweet spring, night roosting good wood, it is said to be the genus of the phoenix, no bird dares to oppose its front.
+Corrupted
+Hearing evil and having evil is born ......
+Demoniac
+Hate goodness, hate goodness, perverse ......
+FoulVisage
+Sins lead the way to get a glimpse of the evil gods ......
+EvilUprise
+Chaotic thoughts search the soul, demon heart can not be hidden ......
+A·Sinster
+Evil and guileless, full of evil ......
+The·FN
+The heart falls into the nine abysses, the heavenly way is hard to forgive ......
+The·C
+The weirdness of all beings, ghosts and demons tread the song ......
+God·S
+Yama burns the bones, the god of death breaks the life ......
+The·NL
+Xuan corpse taking the body, hell collecting the soul ......
+The King gives cry
+Blessed by the King's cries. The \n king has a broad body, is very robust, likes to eat fragrant rice, has a high posture, and does not know how many years it has lived, is a very beloved "king".
+Eaten Ganoderma and Jade
+You have consumed many immortal jades and herbs, your life expectancy is far higher than that of ordinary people.
+Zizhu avatar
+Purple bamboo incarnation, is a purple bamboo aura condensed divine sword fragments in the memory of the illusion of the object ......
+Living Dead
+Because once took the living death drug, and was extinguished spirit, turned into walking corpse ......
+Heart Curtain Sky Curtain
+The curtain of the heart, the curtain of the sky, \n heaven and earth have a curtain can not detect ugly and beautiful, \n heart I have a curtain can not be divided into good and evil ......\n heaven and earth are not benevolent, and, everything as one, \n heart I have no obstacles, then, the earth opened up the sky!
